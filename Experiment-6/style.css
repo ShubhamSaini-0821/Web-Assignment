@@ -28,12 +28,13 @@ h1{
 }
 /* Product Title */
 .product-box h2{
-    color:black;
+    color:greenyellow;
     font-size: 20px;
     margin: 10px;
     border:none;
     width: auto;
 }
+/* Product Description */
 .description{
     color:dimgray;
     font-size: 14px;
