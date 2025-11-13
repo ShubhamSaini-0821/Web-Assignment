@@ -10,3 +10,10 @@ h2 {
 h3 {
   margin-top: 20px;
 }
+.example {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 20px;
+  background-color: #fafafa;
+}
+
