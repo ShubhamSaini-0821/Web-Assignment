@@ -37,6 +37,10 @@ h3 {
 .green {
   background-color: #2ecc71;
 }
+.para{
+    background-color: #eee;
+    padding:10px;
+}
 .clear {
   clear: both;
 }
