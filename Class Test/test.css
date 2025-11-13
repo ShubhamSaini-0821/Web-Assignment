@@ -37,6 +37,8 @@ h3 {
 .green {
   background-color: #2ecc71;
 }
-
+.clear {
+  clear: both;
+}
 
 
