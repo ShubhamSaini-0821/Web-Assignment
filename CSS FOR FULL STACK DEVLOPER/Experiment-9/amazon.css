@@ -19,3 +19,9 @@ body{
     width: 300px;
     background-color:white;
 }
+.img{
+    height: 210px;
+    width:89%;
+    margin:10px;
+    margin-left: 16px;
+}
