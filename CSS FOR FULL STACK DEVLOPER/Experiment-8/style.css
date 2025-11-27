@@ -9,3 +9,12 @@
     justify-content: center;
     
 }
+.sinfo{
+    border: 5px solid rgba(4, 42, 234, 0.721);
+    width: 300px;
+    height: 300px;
+    margin-top: 40px;
+    border-radius: 5%;
+    margin-right: 40px;
+    
+}
