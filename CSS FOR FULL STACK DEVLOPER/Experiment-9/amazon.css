@@ -45,3 +45,14 @@ body{
     margin-top:20px;
     margin-bottom: 20px;
 }
+.button{
+    display: block;
+    margin-left: 105px;
+    margin-top:20px;
+    height: 35px;
+    width: 90px;
+    background-color: rgb(24, 24, 246);
+    color: aliceblue;
+    border-radius: 5%;
+
+}
