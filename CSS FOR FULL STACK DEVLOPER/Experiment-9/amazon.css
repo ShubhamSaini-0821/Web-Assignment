@@ -38,3 +38,10 @@ body{
     margin: 10px;
     color:rgb(79, 77, 77);
 }
+.price{
+    text-align: center;
+    font-size: 25px;
+    color: green;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
