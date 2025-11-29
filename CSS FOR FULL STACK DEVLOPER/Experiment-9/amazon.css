@@ -3,3 +3,4 @@ background-size: cover;
     background-color: rgb(213, 208, 208);
 }
 .box{
+display: flex;
