@@ -16,4 +16,6 @@ body{
 .inline-menu a{
     display: inline;
     background-color: aqua;
+    color: white;
+    
 }
