@@ -39,4 +39,13 @@ body{
     margin:5px;
     text-decoration: none;
 }
+/* Clear Example */
+.clear-example {
+    clear:both;
+    background-color: #f4f4f4;
+    padding:10px;
+    margin-top:20px;
+    border:1px solid #ccc;
 
+
+}
