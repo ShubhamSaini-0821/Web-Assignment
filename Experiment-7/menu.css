@@ -24,5 +24,6 @@ body{
 /* Inline-Block Example */
 .inline-block-menu a{
     display: inline-block;
+    background-color: #9b59b6;
     
 }
