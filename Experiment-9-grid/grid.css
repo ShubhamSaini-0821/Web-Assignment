@@ -18,3 +18,11 @@ body{
     max-width:1200px;
     margin:auto;
 }
+.container{
+    background: #fff;
+    border:1px solid #ddd;
+    text-align:center;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 5px grey;
+}
