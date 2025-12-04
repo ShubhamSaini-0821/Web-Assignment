@@ -25,10 +25,21 @@
 .nav-links a{
     text-decoration: none;
     font-size:1rem;
+    color:white;
 }
 .actions a{
     margin-left:15px;
     color:white;
     text-decoration: none;
     font-weight:bold;
+}
+/* mobile phone */
+@media (max-width:768px){
+    .nav-links{
+        display:none;
+    }
+    .actions a{
+        font-size:0.9rem;
+    }
+
 }
